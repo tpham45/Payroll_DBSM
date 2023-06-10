@@ -72,4 +72,4 @@ Please refer to the project documentation for installation instructions and deta
 
 ## Support
 
-For any questions or support related to the Payroll System School Project, please contact our support team at support@example.com.
+For any questions or support related to the Payroll System School Project, please contact our support team at tuanthanhpham0701@gmail.com
