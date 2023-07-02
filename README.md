@@ -1,4 +1,4 @@
-# Payroll System School Project
+# DBSM Payroll System
 
 The Payroll System School Project is a comprehensive software solution designed to automate and streamline payroll management within an educational institution. It aims to improve efficiency and accuracy in handling employee data, calculating salaries, and generating payroll reports. This project incorporates various features, including a mobile app, biometric clock-in and clock-out, employee self-service portal, analytics and reporting, compliance updates, artificial intelligence, and a savings account feature.
 
